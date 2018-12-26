@@ -1,5 +1,5 @@
 {
-    "name": "TEvalueWise/lumen-request-validate",
+    "name": "tevaluewise/lumen-request-validate",
     "description": "Lumen doesn't have form request validator seperatly. This package helps developers to segregate the validation layer from the controller to a separate dedicated class",
     "type": "library",
     "authors": [
